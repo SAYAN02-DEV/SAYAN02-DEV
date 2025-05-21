@@ -2,6 +2,10 @@
 <h3 align="center">💻 Full Stack Developer | C++ Enthusiast</h3>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/103751321?v=4" width="200" style="border-radius: 50%;" alt="Sayan's profile picture" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;C%2B%2B+%7C+DSA+%7C+Competitive+Programmer;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
