@@ -53,4 +53,4 @@
 ### 🏆 Codeforces Stats
 
 ```diff
-⚙️ Codeforces Profile: [one_minus_one](https://codeforces.com/profile/one_minus_one)
+⚙️ Codeforces Profile: [one_minus_one](https://cf.leed.at?id=one_minus_one)
