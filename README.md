@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;C%2B%2B+%7C+DSA+%7C+Competitive+Programmer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://github.com/SAYAN02-DEV.png" width="200" style="border-radius: 50%;" alt="Sayan's profile picture" />
 </p>
 
 ---
