@@ -50,7 +50,7 @@
 ### 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sayan_10_2?theme=dark&font=Baloo+Bhaijaan+2&extension=activity" alt="LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/sayan_2?theme=dark&font=Baloo+Bhaijaan+2&extension=activity" alt="LeetCode stats" />
 </p>
 
 ---
