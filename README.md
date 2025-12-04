@@ -18,7 +18,6 @@
 - 💻 Practicing **C++ DSA & Competitive Programming**
 - 🌱 Learning **MERN Stack**, mastering **Data Structures**
 - 🤝 Looking to collaborate on **Web Projects**, **Open Source**, or **Coding Contests**
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/sayanmanna/)
 
 ---
 
